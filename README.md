@@ -8,7 +8,7 @@ GUI for WinDurango, which is planned to allow for easy installing/patching among
 
 > [!NOTE]
 > This does nothing more than provide a GUI for easily registering and patching packages with WinDurango.   
-
+> 
 # Roadmap
 
 ## Features
